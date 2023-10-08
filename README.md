@@ -1,2 +1,3 @@
 # BugBounty
-Notes for BugBounty Research
+
+Web App Security Assessment Test Plan
