@@ -68,7 +68,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="24" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="26" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="BugBounty Steps" POSITION="bottom_or_right" ID="ID_1350977398" CREATED="1696808060281" MODIFIED="1696808326949" STYLE="as_parent">
 <font BOLD="true"/>
 <edge COLOR="#0000ff"/>
@@ -140,6 +140,9 @@
 <font BOLD="true"/>
 <node TEXT="If the website relies on APIs, test them for security vulnerabilities, such as improper authentication, authorization issues, and data exposure." ID="ID_1630024320" CREATED="1696798007946" MODIFIED="1696798189700" STYLE="as_parent"/>
 <node TEXT="Follow the steps mentioned in the previous response for API security testing." ID="ID_160477938" CREATED="1696798021493" MODIFIED="1696798189699" STYLE="as_parent"/>
+<node TEXT="Tools and Techniques" ID="ID_990755950" CREATED="1697424755371" MODIFIED="1697425072559" STYLE="as_parent">
+<node TEXT="API Security Empire" ID="ID_1533599587" CREATED="1697424767718" MODIFIED="1697425072560" LINK="https://github.com/Cyber-Guy1/API-SecurityEmpire/tree/main" STYLE="as_parent"/>
+</node>
 </node>
 <node TEXT="7. Vulnerability Identification:" POSITION="bottom_or_right" ID="ID_1293380058" CREATED="1696797610816" MODIFIED="1696808185648" COLOR="#009999" STYLE="as_parent">
 <font BOLD="true"/>
@@ -182,7 +185,7 @@
 <node TEXT="Continuously learn and improve your skills by staying updated on the latest security vulnerabilities and testing techniques." ID="ID_194181930" CREATED="1696797771984" MODIFIED="1696797797249" STYLE="as_parent"/>
 </node>
 </node>
-<node TEXT="Pentest Frameworks" FOLDED="true" POSITION="top_or_left" ID="ID_1695803200" CREATED="1696804110164" MODIFIED="1696808343109" STYLE="as_parent">
+<node TEXT="Pentest Frameworks" POSITION="top_or_left" ID="ID_1695803200" CREATED="1696804110164" MODIFIED="1696808343109" STYLE="as_parent">
 <font BOLD="true"/>
 <edge COLOR="#00ffff"/>
 <node TEXT="TIDoS-Framework" ID="ID_1831616564" CREATED="1696804139724" MODIFIED="1696808368035" LINK="https://github.com/cicada-369/TIDoS-Framework" STYLE="as_parent"/>
@@ -210,11 +213,16 @@
 <node TEXT="XSS Filter Evasion Cheat Sheet" ID="ID_1771416267" CREATED="1696807241083" MODIFIED="1696808368039" LINK="https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html" STYLE="as_parent"/>
 <node TEXT="Cross-Site Scripting (XSS) Cheatsheet" ID="ID_361152428" CREATED="1696807419199" MODIFIED="1696808368040" LINK="https://hackersonlineclub.com/cross-site-scripting-xss/" STYLE="as_parent"/>
 </node>
-<node TEXT="MindMaps" FOLDED="true" POSITION="top_or_left" ID="ID_1899310210" CREATED="1696807742346" MODIFIED="1696808343113" STYLE="as_parent">
+<node TEXT="MindMaps" POSITION="top_or_left" ID="ID_1899310210" CREATED="1696807742346" MODIFIED="1696808343113" STYLE="as_parent">
 <font BOLD="true"/>
 <edge COLOR="#7c007c"/>
 <node TEXT="Web Application Security" ID="ID_1369248769" CREATED="1696807847540" MODIFIED="1696808368040" LINK="https://www.mindmeister.com/1349784699/web-application-security?fullscreen=1#" STYLE="as_parent"/>
 <node TEXT="Web App Pentest" ID="ID_983978618" CREATED="1696807860538" MODIFIED="1696808368040" LINK="https://www.mindmeister.com/1470766611/web-app-pentest?fullscreen=1" STYLE="as_parent"/>
+<node TEXT="API Pentest Mindmap" ID="ID_133812674" CREATED="1697425129732" MODIFIED="1697425174755" LINK="https://github.com/Cyber-Guy1/API-SecurityEmpire/tree/main/assets" STYLE="as_parent"/>
+</node>
+<node TEXT="BugBounty Tips" POSITION="top_or_left" ID="ID_1221882873" CREATED="1697424911879" MODIFIED="1697425072561" STYLE="as_parent">
+<edge COLOR="#ff00ff"/>
+<node TEXT="H4cker" ID="ID_192039503" CREATED="1697424956794" MODIFIED="1697425072561" LINK="https://github.com/The-Art-of-Hacking/h4cker/tree/master/bug-bounties" STYLE="as_parent"/>
 </node>
 </node>
 </map>
